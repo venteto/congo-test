@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://venteto.github.io/congo-test/sitemap.xml
