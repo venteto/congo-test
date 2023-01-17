@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>icons on Congo</title>
-    <link>https://venteto.github.io/congo-test/tags/icons/</link>
+    <link>https://congo-test.netlify.app/tags/icons/</link>
     <description>Recent content in icons on Congo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
     <copyright>&amp;copy; 2023 Congo contributors</copyright>
-    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://venteto.github.io/congo-test/tags/icons/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://congo-test.netlify.app/tags/icons/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Icons</title>
-      <link>https://venteto.github.io/congo-test/samples/icons/</link>
+      <link>https://congo-test.netlify.app/samples/icons/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/samples/icons/</guid>
+      <guid>https://congo-test.netlify.app/samples/icons/</guid>
       <description>Congo has built-in support for a number of FontAwesome 6 icons.</description>
     </item>
     

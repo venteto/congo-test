@@ -2,369 +2,369 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Congo</title>
-    <link>https://venteto.github.io/congo-test/tags/</link>
+    <link>https://congo-test.netlify.app/tags/</link>
     <description>Recent content in Tags on Congo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
     <copyright>&amp;copy; 2023 Congo contributors</copyright>
-    <lastBuildDate>Thu, 20 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://venteto.github.io/congo-test/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://congo-test.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>docs</title>
-      <link>https://venteto.github.io/congo-test/tags/docs/</link>
+      <link>https://congo-test.netlify.app/tags/docs/</link>
       <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/docs/</guid>
+      <guid>https://congo-test.netlify.app/tags/docs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>new</title>
-      <link>https://venteto.github.io/congo-test/tags/new/</link>
+      <link>https://congo-test.netlify.app/tags/new/</link>
       <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/new/</guid>
+      <guid>https://congo-test.netlify.app/tags/new/</guid>
       <description></description>
     </item>
     
     <item>
       <title>installation</title>
-      <link>https://venteto.github.io/congo-test/tags/installation/</link>
+      <link>https://congo-test.netlify.app/tags/installation/</link>
       <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/installation/</guid>
+      <guid>https://congo-test.netlify.app/tags/installation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>config</title>
-      <link>https://venteto.github.io/congo-test/tags/config/</link>
+      <link>https://congo-test.netlify.app/tags/config/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/config/</guid>
+      <guid>https://congo-test.netlify.app/tags/config/</guid>
       <description></description>
     </item>
     
     <item>
       <title>icons</title>
-      <link>https://venteto.github.io/congo-test/tags/icons/</link>
+      <link>https://congo-test.netlify.app/tags/icons/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/icons/</guid>
+      <guid>https://congo-test.netlify.app/tags/icons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sample</title>
-      <link>https://venteto.github.io/congo-test/tags/sample/</link>
+      <link>https://congo-test.netlify.app/tags/sample/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/sample/</guid>
+      <guid>https://congo-test.netlify.app/tags/sample/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcodes</title>
-      <link>https://venteto.github.io/congo-test/tags/shortcodes/</link>
+      <link>https://congo-test.netlify.app/tags/shortcodes/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/shortcodes/</guid>
+      <guid>https://congo-test.netlify.app/tags/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>users</title>
-      <link>https://venteto.github.io/congo-test/tags/users/</link>
+      <link>https://congo-test.netlify.app/tags/users/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/users/</guid>
+      <guid>https://congo-test.netlify.app/tags/users/</guid>
       <description></description>
     </item>
     
     <item>
       <title>homepage</title>
-      <link>https://venteto.github.io/congo-test/tags/homepage/</link>
+      <link>https://congo-test.netlify.app/tags/homepage/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/homepage/</guid>
+      <guid>https://congo-test.netlify.app/tags/homepage/</guid>
       <description></description>
     </item>
     
     <item>
       <title>layouts</title>
-      <link>https://venteto.github.io/congo-test/tags/layouts/</link>
+      <link>https://congo-test.netlify.app/tags/layouts/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/layouts/</guid>
+      <guid>https://congo-test.netlify.app/tags/layouts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>front matter</title>
-      <link>https://venteto.github.io/congo-test/tags/front-matter/</link>
+      <link>https://congo-test.netlify.app/tags/front-matter/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/front-matter/</guid>
+      <guid>https://congo-test.netlify.app/tags/front-matter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>icon</title>
-      <link>https://venteto.github.io/congo-test/tags/icon/</link>
+      <link>https://congo-test.netlify.app/tags/icon/</link>
       <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/icon/</guid>
+      <guid>https://congo-test.netlify.app/tags/icon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lead</title>
-      <link>https://venteto.github.io/congo-test/tags/lead/</link>
+      <link>https://congo-test.netlify.app/tags/lead/</link>
       <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/lead/</guid>
+      <guid>https://congo-test.netlify.app/tags/lead/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mermaid</title>
-      <link>https://venteto.github.io/congo-test/tags/mermaid/</link>
+      <link>https://congo-test.netlify.app/tags/mermaid/</link>
       <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/mermaid/</guid>
+      <guid>https://congo-test.netlify.app/tags/mermaid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>analytics</title>
-      <link>https://venteto.github.io/congo-test/tags/analytics/</link>
+      <link>https://congo-test.netlify.app/tags/analytics/</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/analytics/</guid>
+      <guid>https://congo-test.netlify.app/tags/analytics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>comments</title>
-      <link>https://venteto.github.io/congo-test/tags/comments/</link>
+      <link>https://congo-test.netlify.app/tags/comments/</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/comments/</guid>
+      <guid>https://congo-test.netlify.app/tags/comments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>favicons</title>
-      <link>https://venteto.github.io/congo-test/tags/favicons/</link>
+      <link>https://congo-test.netlify.app/tags/favicons/</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/favicons/</guid>
+      <guid>https://congo-test.netlify.app/tags/favicons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>partials</title>
-      <link>https://venteto.github.io/congo-test/tags/partials/</link>
+      <link>https://congo-test.netlify.app/tags/partials/</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/partials/</guid>
+      <guid>https://congo-test.netlify.app/tags/partials/</guid>
       <description></description>
     </item>
     
     <item>
       <title>privacy</title>
-      <link>https://venteto.github.io/congo-test/tags/privacy/</link>
+      <link>https://congo-test.netlify.app/tags/privacy/</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/privacy/</guid>
+      <guid>https://congo-test.netlify.app/tags/privacy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>content</title>
-      <link>https://venteto.github.io/congo-test/tags/content/</link>
+      <link>https://congo-test.netlify.app/tags/content/</link>
       <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/content/</guid>
+      <guid>https://congo-test.netlify.app/tags/content/</guid>
       <description></description>
     </item>
     
     <item>
       <title>example</title>
-      <link>https://venteto.github.io/congo-test/tags/example/</link>
+      <link>https://congo-test.netlify.app/tags/example/</link>
       <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/example/</guid>
+      <guid>https://congo-test.netlify.app/tags/example/</guid>
       <description></description>
     </item>
     
     <item>
       <title>advanced</title>
-      <link>https://venteto.github.io/congo-test/tags/advanced/</link>
+      <link>https://congo-test.netlify.app/tags/advanced/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/advanced/</guid>
+      <guid>https://congo-test.netlify.app/tags/advanced/</guid>
       <description>This is the advanced tag.</description>
     </item>
     
     <item>
       <title>css</title>
-      <link>https://venteto.github.io/congo-test/tags/css/</link>
+      <link>https://congo-test.netlify.app/tags/css/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/css/</guid>
+      <guid>https://congo-test.netlify.app/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>deployment</title>
-      <link>https://venteto.github.io/congo-test/tags/deployment/</link>
+      <link>https://congo-test.netlify.app/tags/deployment/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/deployment/</guid>
+      <guid>https://congo-test.netlify.app/tags/deployment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>github</title>
-      <link>https://venteto.github.io/congo-test/tags/github/</link>
+      <link>https://congo-test.netlify.app/tags/github/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/github/</guid>
+      <guid>https://congo-test.netlify.app/tags/github/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hosting</title>
-      <link>https://venteto.github.io/congo-test/tags/hosting/</link>
+      <link>https://congo-test.netlify.app/tags/hosting/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/hosting/</guid>
+      <guid>https://congo-test.netlify.app/tags/hosting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>netlify</title>
-      <link>https://venteto.github.io/congo-test/tags/netlify/</link>
+      <link>https://congo-test.netlify.app/tags/netlify/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/netlify/</guid>
+      <guid>https://congo-test.netlify.app/tags/netlify/</guid>
       <description></description>
     </item>
     
     <item>
       <title>render</title>
-      <link>https://venteto.github.io/congo-test/tags/render/</link>
+      <link>https://congo-test.netlify.app/tags/render/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/render/</guid>
+      <guid>https://congo-test.netlify.app/tags/render/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>https://venteto.github.io/congo-test/tags/html/</link>
+      <link>https://congo-test.netlify.app/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/html/</guid>
+      <guid>https://congo-test.netlify.app/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>https://venteto.github.io/congo-test/tags/markdown/</link>
+      <link>https://congo-test.netlify.app/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/markdown/</guid>
+      <guid>https://congo-test.netlify.app/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gist</title>
-      <link>https://venteto.github.io/congo-test/tags/gist/</link>
+      <link>https://congo-test.netlify.app/tags/gist/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/gist/</guid>
+      <guid>https://congo-test.netlify.app/tags/gist/</guid>
       <description></description>
     </item>
     
     <item>
       <title>twitter</title>
-      <link>https://venteto.github.io/congo-test/tags/twitter/</link>
+      <link>https://congo-test.netlify.app/tags/twitter/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/twitter/</guid>
+      <guid>https://congo-test.netlify.app/tags/twitter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>vimeo</title>
-      <link>https://venteto.github.io/congo-test/tags/vimeo/</link>
+      <link>https://congo-test.netlify.app/tags/vimeo/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/vimeo/</guid>
+      <guid>https://congo-test.netlify.app/tags/vimeo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>youtube</title>
-      <link>https://venteto.github.io/congo-test/tags/youtube/</link>
+      <link>https://congo-test.netlify.app/tags/youtube/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/youtube/</guid>
+      <guid>https://congo-test.netlify.app/tags/youtube/</guid>
       <description></description>
     </item>
     
     <item>
       <title>katex</title>
-      <link>https://venteto.github.io/congo-test/tags/katex/</link>
+      <link>https://congo-test.netlify.app/tags/katex/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/katex/</guid>
+      <guid>https://congo-test.netlify.app/tags/katex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>maths</title>
-      <link>https://venteto.github.io/congo-test/tags/maths/</link>
+      <link>https://congo-test.netlify.app/tags/maths/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/maths/</guid>
+      <guid>https://congo-test.netlify.app/tags/maths/</guid>
       <description></description>
     </item>
     
     <item>
       <title>chart</title>
-      <link>https://venteto.github.io/congo-test/tags/chart/</link>
+      <link>https://congo-test.netlify.app/tags/chart/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/chart/</guid>
+      <guid>https://congo-test.netlify.app/tags/chart/</guid>
       <description></description>
     </item>
     
     <item>
       <title>diagram</title>
-      <link>https://venteto.github.io/congo-test/tags/diagram/</link>
+      <link>https://congo-test.netlify.app/tags/diagram/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/diagram/</guid>
+      <guid>https://congo-test.netlify.app/tags/diagram/</guid>
       <description></description>
     </item>
     
     <item>
       <title>graph</title>
-      <link>https://venteto.github.io/congo-test/tags/graph/</link>
+      <link>https://congo-test.netlify.app/tags/graph/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/graph/</guid>
+      <guid>https://congo-test.netlify.app/tags/graph/</guid>
       <description></description>
     </item>
     
     <item>
       <title>emoji</title>
-      <link>https://venteto.github.io/congo-test/tags/emoji/</link>
+      <link>https://congo-test.netlify.app/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/tags/emoji/</guid>
+      <guid>https://congo-test.netlify.app/tags/emoji/</guid>
       <description></description>
     </item>
     

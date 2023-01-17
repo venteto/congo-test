@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>config on Congo</title>
-    <link>https://venteto.github.io/congo-test/tags/config/</link>
+    <link>https://congo-test.netlify.app/tags/config/</link>
     <description>Recent content in config on Congo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
     <copyright>&amp;copy; 2023 Congo contributors</copyright>
-    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://venteto.github.io/congo-test/tags/config/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://congo-test.netlify.app/tags/config/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Configuration</title>
-      <link>https://venteto.github.io/congo-test/docs/configuration/</link>
+      <link>https://congo-test.netlify.app/docs/configuration/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/docs/configuration/</guid>
+      <guid>https://congo-test.netlify.app/docs/configuration/</guid>
       <description>Discover all the site, language and theme configurations that are available in Congo and how they can be used to customise your project.</description>
     </item>
     
     <item>
       <title>Front Matter</title>
-      <link>https://venteto.github.io/congo-test/docs/front-matter/</link>
+      <link>https://congo-test.netlify.app/docs/front-matter/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/docs/front-matter/</guid>
+      <guid>https://congo-test.netlify.app/docs/front-matter/</guid>
       <description>While supporting most Hugo defaults, Congo adds a number of front matter parameters to customise the presentation of individual articles.</description>
     </item>
     

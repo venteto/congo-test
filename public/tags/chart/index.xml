@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>chart on Congo</title>
-    <link>https://venteto.github.io/congo-test/tags/chart/</link>
+    <link>https://congo-test.netlify.app/tags/chart/</link>
     <description>Recent content in chart on Congo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
     <copyright>&amp;copy; 2023 Congo contributors</copyright>
-    <lastBuildDate>Wed, 06 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://venteto.github.io/congo-test/tags/chart/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://congo-test.netlify.app/tags/chart/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Charts</title>
-      <link>https://venteto.github.io/congo-test/samples/charts/</link>
+      <link>https://congo-test.netlify.app/samples/charts/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://venteto.github.io/congo-test/samples/charts/</guid>
+      <guid>https://congo-test.netlify.app/samples/charts/</guid>
       <description>Congo includes Chart.js for powerful charts and data visualisations.</description>
     </item>
     
